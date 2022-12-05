@@ -1,0 +1,385 @@
+# depslib dependency file v1.0
+1668365858 source:d:\usuario\desktop\17-35 tp final\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"jugador.h"
+	"listas.h"
+
+1668300683 d:\usuario\desktop\17-35 tp final\arbol.h
+
+1667938006 d:\usuario\desktop\17-35 tp final\jugador.h
+
+1668023580 d:\usuario\desktop\17-35 tp final\listas.h
+	"arbol.h"
+
+1667937510 source:d:\usuario\desktop\17-35 tp final\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"jugador.h"
+
+1668023592 source:d:\usuario\desktop\17-35 tp final\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listas.h"
+	"arbol.h"
+
+1668367150 source:d:\usuario\desktop\17-35 tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ingresar_usuario.h"
+	"arbol.h"
+	"jugador.h"
+	"listas.h"
+
+1667937388 d:\usuario\desktop\17-35 tp final\ingresar_usuario.h
+	"arbol.h"
+
+1668207054 source:d:\usuario\desktop\17-35 tp final\top.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"top.h"
+
+1668032230 d:\usuario\desktop\17-35 tp final\top.h
+	"arbol.h"
+
+1668363530 source:d:\usuario\desktop\17-35 tp final\ingresar_usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresar_usuario.h"
+	"arbol.h"
+	"jugador.h"
+	<conio.h>
+
+1668662912 source:c:\users\usuario\desktop\17-35 tp final\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"jugador.h"
+	"listas.h"
+	"gotoxy.h"
+	"titulos.h"
+
+1668658461 c:\users\usuario\desktop\17-35 tp final\arbol.h
+
+1668664141 c:\users\usuario\desktop\17-35 tp final\jugador.h
+
+1668658461 c:\users\usuario\desktop\17-35 tp final\listas.h
+	"arbol.h"
+
+1668658755 source:c:\users\usuario\desktop\17-35 tp final\ingresar_usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresar_usuario.h"
+	"arbol.h"
+	"jugador.h"
+	<conio.h>
+	"gotoxy.h"
+	"titulos.h"
+
+1668621204 c:\users\usuario\desktop\17-35 tp final\ingresar_usuario.h
+	"arbol.h"
+
+1668665621 source:c:\users\usuario\desktop\17-35 tp final\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"jugador.h"
+	"gotoxy.h"
+	"titulos.h"
+
+1668658595 source:c:\users\usuario\desktop\17-35 tp final\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listas.h"
+	"arbol.h"
+
+1668666862 source:c:\users\usuario\desktop\17-35 tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ingresar_usuario.h"
+	"arbol.h"
+	"jugador.h"
+	"listas.h"
+	"gotoxy.h"
+	"titulos.h"
+	<windows.h>
+
+1668662844 source:c:\users\usuario\desktop\17-35 tp final\top.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"top.h"
+	"gotoxy.h"
+	"titulos.h"
+
+1668659135 c:\users\usuario\desktop\17-35 tp final\top.h
+	"arbol.h"
+
+1668621204 c:\users\usuario\desktop\17-35 tp final\gotoxy.h
+
+1668621204 source:c:\users\usuario\desktop\17-35 tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668666720 source:c:\users\usuario\desktop\17-35 tp final\titulos.c
+
+1668655430 c:\users\usuario\desktop\17-35 tp final\titulos.h
+
+1668621206 source:c:\users\usuario\desktop\17-35 tp final\17-35 tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668670525 source:c:\users\usuario\desktop\17-35 tp final\17-35 tp final\ingresar_usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresar_usuario.h"
+	"arbol.h"
+	"jugador.h"
+	<conio.h>
+	"gotoxy.h"
+	"titulos.h"
+
+1668621206 c:\users\usuario\desktop\17-35 tp final\17-35 tp final\ingresar_usuario.h
+	"arbol.h"
+
+1668658462 c:\users\usuario\desktop\17-35 tp final\17-35 tp final\arbol.h
+
+1668664142 c:\users\usuario\desktop\17-35 tp final\17-35 tp final\jugador.h
+
+1668621206 c:\users\usuario\desktop\17-35 tp final\17-35 tp final\gotoxy.h
+
+1668655432 c:\users\usuario\desktop\17-35 tp final\17-35 tp final\titulos.h
+
+1668672132 source:c:\users\usuario\desktop\17-35 tp final\17-35 tp final\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"jugador.h"
+	"gotoxy.h"
+	"titulos.h"
+
+1668658596 source:c:\users\usuario\desktop\17-35 tp final\17-35 tp final\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listas.h"
+	"arbol.h"
+
+1668658462 c:\users\usuario\desktop\17-35 tp final\17-35 tp final\listas.h
+	"arbol.h"
+
+1668671883 source:c:\users\usuario\desktop\17-35 tp final\17-35 tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ingresar_usuario.h"
+	"arbol.h"
+	"jugador.h"
+	"listas.h"
+	"gotoxy.h"
+	"titulos.h"
+	<windows.h>
+
+1668671415 source:c:\users\usuario\desktop\17-35 tp final\17-35 tp final\titulos.c
+
+1668662846 source:c:\users\usuario\desktop\17-35 tp final\17-35 tp final\top.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"top.h"
+	"gotoxy.h"
+	"titulos.h"
+
+1668659136 c:\users\usuario\desktop\17-35 tp final\17-35 tp final\top.h
+	"arbol.h"
+
+1668668539 source:c:\users\usuario\desktop\17-35 tp final\17-35 tp final\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"jugador.h"
+	"listas.h"
+	"gotoxy.h"
+	"titulos.h"
+	"Maze.h"
+
+1668666914 c:\users\usuario\desktop\17-35 tp final\17-35 tp final\maze.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	"ListaJuego.h"
+	"FilaMapa.h"
+
+1668647337 c:\users\usuario\desktop\17-35 tp final\17-35 tp final\listajuego.h
+	<stdio.h>
+	<stdlib.h>
+	"Mapa.h"
+
+1668652162 c:\users\usuario\desktop\17-35 tp final\17-35 tp final\mapa.h
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+
+1668648961 c:\users\usuario\desktop\17-35 tp final\17-35 tp final\filamapa.h
+	<stdio.h>
+	<stdlib.h>
+	"Mapa.h"
+	"ListaJuego.h"
+
+1668648959 source:c:\users\usuario\desktop\17-35 tp final\17-35 tp final\filamapa.c
+	"FilaMapa.h"
+
+1668647341 source:c:\users\usuario\desktop\17-35 tp final\17-35 tp final\listajuego.c
+	"ListaJuego.h"
+
+1668652162 source:c:\users\usuario\desktop\17-35 tp final\17-35 tp final\mapa.c
+	"Mapa.h"
+
+1668669008 source:c:\users\usuario\desktop\17-35 tp final\17-35 tp final\maze.c
+	"Maze.h"
+
+1668685270 source:c:\users\sofia\onedrive\escritorio\17-35 tp final\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"jugador.h"
+	"listas.h"
+	"gotoxy.h"
+	"titulos.h"
+	"Maze.h"
+
+1668658462 c:\users\sofia\onedrive\escritorio\17-35 tp final\arbol.h
+
+1668686702 c:\users\sofia\onedrive\escritorio\17-35 tp final\jugador.h
+
+1668658462 c:\users\sofia\onedrive\escritorio\17-35 tp final\listas.h
+	"arbol.h"
+
+1668621206 c:\users\sofia\onedrive\escritorio\17-35 tp final\gotoxy.h
+
+1668686714 c:\users\sofia\onedrive\escritorio\17-35 tp final\titulos.h
+
+1668666916 c:\users\sofia\onedrive\escritorio\17-35 tp final\maze.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	"ListaJuego.h"
+	"FilaMapa.h"
+
+1668647338 c:\users\sofia\onedrive\escritorio\17-35 tp final\listajuego.h
+	<stdio.h>
+	<stdlib.h>
+	"Mapa.h"
+
+1668652164 c:\users\sofia\onedrive\escritorio\17-35 tp final\mapa.h
+	<stdio.h>
+	<stdlib.h>
+	"gotoxy.h"
+
+1668648962 c:\users\sofia\onedrive\escritorio\17-35 tp final\filamapa.h
+	<stdio.h>
+	<stdlib.h>
+	"Mapa.h"
+	"ListaJuego.h"
+
+1668648960 source:c:\users\sofia\onedrive\escritorio\17-35 tp final\filamapa.c
+	"FilaMapa.h"
+
+1668621206 source:c:\users\sofia\onedrive\escritorio\17-35 tp final\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668670526 source:c:\users\sofia\onedrive\escritorio\17-35 tp final\ingresar_usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ingresar_usuario.h"
+	"arbol.h"
+	"jugador.h"
+	<conio.h>
+	"gotoxy.h"
+	"titulos.h"
+
+1668686671 c:\users\sofia\onedrive\escritorio\17-35 tp final\ingresar_usuario.h
+	"arbol.h"
+
+1668686101 source:c:\users\sofia\onedrive\escritorio\17-35 tp final\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arbol.h"
+	"jugador.h"
+	"gotoxy.h"
+	"titulos.h"
+
+1668647342 source:c:\users\sofia\onedrive\escritorio\17-35 tp final\listajuego.c
+	"ListaJuego.h"
+
+1668658596 source:c:\users\sofia\onedrive\escritorio\17-35 tp final\listas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"listas.h"
+	"arbol.h"
+
+1668685675 source:c:\users\sofia\onedrive\escritorio\17-35 tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ingresar_usuario.h"
+	"arbol.h"
+	"jugador.h"
+	"listas.h"
+	"gotoxy.h"
+	"titulos.h"
+	<windows.h>
+
+1668652164 source:c:\users\sofia\onedrive\escritorio\17-35 tp final\mapa.c
+	"Mapa.h"
+
+1668685533 source:c:\users\sofia\onedrive\escritorio\17-35 tp final\maze.c
+	"Maze.h"
+
+1668671416 source:c:\users\sofia\onedrive\escritorio\17-35 tp final\titulos.c
+
+1668662846 source:c:\users\sofia\onedrive\escritorio\17-35 tp final\top.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"top.h"
+	"gotoxy.h"
+	"titulos.h"
+
+1668686682 c:\users\sofia\onedrive\escritorio\17-35 tp final\top.h
+	"arbol.h"
+

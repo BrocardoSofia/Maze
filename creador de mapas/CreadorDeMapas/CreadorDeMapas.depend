@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1667919286 source:d:\juegomaze\creador de mapas\creadordemapas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	"Mapa.h"
+
+1491399896 d:\juegomaze\creador de mapas\creadordemapas\gotoxy.h
+
+1491400450 source:d:\juegomaze\creador de mapas\creadordemapas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1667853967 d:\juegomaze\creador de mapas\creadordemapas\mapa.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1667854028 source:d:\juegomaze\creador de mapas\creadordemapas\mapa.c
+	"Mapa.h"
+
+1491400450 source:c:\users\sofia\onedrive\escritorio\juegomaze\creador de mapas\creadordemapas\gotoxy.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1668653582 source:c:\users\sofia\onedrive\escritorio\juegomaze\creador de mapas\creadordemapas\mapa.c
+	"Mapa.h"
+
+1667853967 c:\users\sofia\onedrive\escritorio\juegomaze\creador de mapas\creadordemapas\mapa.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+
+1491399896 c:\users\sofia\onedrive\escritorio\juegomaze\creador de mapas\creadordemapas\gotoxy.h
+
+1668655229 source:c:\users\sofia\onedrive\escritorio\juegomaze\creador de mapas\creadordemapas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"gotoxy.h"
+	"Mapa.h"
+
